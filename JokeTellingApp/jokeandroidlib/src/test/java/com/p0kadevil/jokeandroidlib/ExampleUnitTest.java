@@ -1,4 +1,4 @@
-package com.p0kadevil.joketellingapp;
+package com.p0kadevil.jokeandroidlib;
 
 import org.junit.Test;
 

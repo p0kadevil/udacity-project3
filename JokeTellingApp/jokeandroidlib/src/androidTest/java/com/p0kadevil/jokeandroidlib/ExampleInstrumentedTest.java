@@ -1,4 +1,4 @@
-package com.p0kadevil.joketellingapp;
+package com.p0kadevil.jokeandroidlib;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.p0kadevil.joketellingapp", appContext.getPackageName());
+        assertEquals("com.p0kadevil.jokeandroidlib.test", appContext.getPackageName());
     }
 }
